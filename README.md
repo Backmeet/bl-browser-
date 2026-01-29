@@ -1,2 +1,2 @@
 # bl-browser-
-A web browser for bl
+A web browser for build logic
